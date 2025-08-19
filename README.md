@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🪟 Windows-MCP-Agent</h1>
+  <h1>🪟 Tools-MCP-Agent</h1>
 
   <a href="https://github.com/CursorTouch/Windows-MCP/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
@@ -9,18 +9,13 @@
   <img src="https://img.shields.io/badge/platform-Windows%207–11-blue" alt="Platform: Windows 7 to 11">
   <img src="https://img.shields.io/github/last-commit/CursorTouch/Windows-MCP" alt="Last Commit">
   <br>
-  <a href="https://x.com/CursorTouch">
-    <img src="https://img.shields.io/badge/follow-%40CursorTouch-1DA1F2?logo=twitter&style=flat" alt="Follow on Twitter">
-  </a>
-  <a href="https://discord.com/invite/Aue9Yj2VzS">
-    <img src="https://img.shields.io/badge/Join%20on-Discord-5865F2?logo=discord&logoColor=white&style=flat" alt="Join us on Discord">
-  </a>
+
 
 </div>
 
 <br>
 
-Windows-MCP-Agent 是基于 Windows-MCP 的强大自动化代理智能体，在保留其核心特性的同时优化了项目结构，并提供更强的扩展能力。通过将 Windows 端工具统一整理为集合，并支持用户自定义扩展（如 Web 浏览器集成），它全面提升了大语言模型在 Windows 系统中的自动化 易用性、可扩展性与可维护性。
+Tools-MCP-Agent是基于Windows-MCP构建的强大自动化代理智能体，在保留其核心特性的同时优化了项目结构，并提供更强的扩展能力。通过将 Windows 端工具统一整理为集合，并支持用户自定义扩展（如 Web 浏览器集成），它全面提升了大语言模型在 Windows 系统中的自动化 易用性、可扩展性与可维护性。
 
 <br>
 特别感谢开源项目 [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) 与 [Windows-Use](https://github.com/CursorTouch/Windows-Use) 的支持！
@@ -43,7 +38,7 @@ Windows-MCP-Agent 是基于 Windows-MCP 的强大自动化代理智能体，在�
 
 ## ✨ Key Features
 - **对于Windows工具继承了Windows-MCP的所有特性**
-Windows-MCP中windows工具作为Windows-MCP-Agent的一种类型工具集合,对其代码进行整理，并未修改。
+Windows-MCP中windows工具作为Tools-MCP-Agent的一种类型工具集合,对其代码进行整理，并未修改。
 - **可拓展式工具设计**
 按照工具的类型进行工具集合的管理，用于自行拓展其他工具的实现。
 - **支持任意 LLM(比如api调用、ollama等)**
