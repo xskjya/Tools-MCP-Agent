@@ -19,9 +19,9 @@ Tools-MCP-Agent是基于Windows-MCP构建的强大自动化代理智能体，在
 
 <br>
 ## 鸣谢
+
 * [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) 
 * [Windows-Use](https://github.com/CursorTouch/Windows-Use)
-
 
 
 ## 实例
