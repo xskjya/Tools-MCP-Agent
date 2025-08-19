@@ -6,9 +6,9 @@ import asyncio
 import ctypes
 from live_inspect.watch_cursor import WatchCursor
 from humancursor import SystemCursor
-
 from src.agent.tools import register_all_tools
 from src.desktop import Desktop
+
 
 # ============ 初始化 ============ #
 os = system()

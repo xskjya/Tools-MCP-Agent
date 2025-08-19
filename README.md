@@ -30,10 +30,10 @@ Tools-MCP-Agent是基于Windows-MCP构建的强大自动化代理智能体，在
 
 
 ## Updates
-
 - 优化了项目结构
 - 封装了工具与LLM之间的调用接口
 - 拓展了工具的接口实现
+- 封装了工具代理类：见文档docs
 
 ### Supported Operating Systems
 - Windows 7
